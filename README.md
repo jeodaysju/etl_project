@@ -1,7 +1,6 @@
 # What should I watch tonight?
 ## Movie Data ETL Project
 
-Team Project
 #### Team Members: John Clark, Nicole Fejfar, Jason O'Day, Marianne Pagerit
 
 #### Instructions to Graders:
