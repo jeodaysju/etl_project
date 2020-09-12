@@ -2,7 +2,7 @@ CREATE TABLE box_office (
 rank INT PRIMARY KEY,
 released INT,
 movie TEXT,
-total_box_office TEXT
+total_box_office INT
 );
 
 CREATE TABLE streaming (
@@ -21,3 +21,5 @@ genres TEXT,
 language TEXT,
 runtime INT
 );
+
+
