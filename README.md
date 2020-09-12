@@ -6,6 +6,6 @@
 #### Instructions to Graders:
 1. In postgreSQL create a database called 'movies_db'
 1. Create tables in postgreSQL by importing and running the 'schema.sql' file
-1. Run the Jupyter Notebook code
+1. Open the etl_project jupyter notebook and run the code
 
 Bonus Step: In postgreSQL import and use the analysis.sql to do some analysis
